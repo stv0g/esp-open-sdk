@@ -1,0 +1,4 @@
+sdk
+xtensa-lx106-elf/
+.sdk_patch_*
+esp_iot_sdk_*
